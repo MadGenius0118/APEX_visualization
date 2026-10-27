@@ -1,4 +1,4 @@
-pandas==2.0.1
-streamlit==1.57.0
-streamlit-agraph==0.0.45
-st_link_analysis==0.4.0
+pandas
+streamlit
+streamlit-agraph
+st_link_analysis
